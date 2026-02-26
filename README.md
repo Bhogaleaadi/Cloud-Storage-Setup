@@ -9,10 +9,11 @@ Step 1: Create an S3 Bucket
 2. Navigate to Amazon S3
 3. Click Create bucket
 4. Configure:
-o Bucket Name: your-bucket-name
-o Region: ap-south-1 (Mumbai)
-o Block Public Access: ✅ Enabled
-5. Click Create bucket
+ Bucket Name: your-bucket-name
+ Region: ap-south-1 (Mumbai)
+ Block Public Access: ✅ Enabled
+6. Click Create bucket
+
 ![Bucket Created](Images/T4a.png)
 
 Step 2: Create Folder Structure
