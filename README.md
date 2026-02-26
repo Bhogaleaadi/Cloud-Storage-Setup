@@ -73,7 +73,7 @@ Step 7: Verify Private Access
 
 This confirms secure configuration.
 
-�� Conclusion
+Conclusion:
 An Amazon S3 bucket was successfully created and configured with secure access controls.
 Example files were uploaded, encryption and versioning were enabled, and access
 permissions were validated through an AccessDenied response. This setup demonstrates
