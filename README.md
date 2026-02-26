@@ -13,7 +13,7 @@ o Bucket Name: your-bucket-name
 o Region: ap-south-1 (Mumbai)
 o Block Public Access: ✅ Enabled
 5. Click Create bucket
-![Bucket Created](Images/10 kb aditya sign new-min.jpg)
+![Bucket Created](Images/T4a.png)
 
 Step 2: Create Folder Structure
 Inside the bucket, created the following folders:
