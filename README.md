@@ -1,9 +1,11 @@
+## Task 1 : Cloud-Storage-Setup
+
 AWS S3 Cloud Storage Setup
 Internship Task
 Create and Configure Cloud Storage using Amazon S3
 This project demonstrates the creation, configuration, and secure management of a cloud
 storage bucket using Amazon S3 on AWS Free Tier.
-
+_________________________________________________________________________________________________________________________________
 Step 1: Create an S3 Bucket
 1. Login to AWS Console
 2. Navigate to Amazon S3
@@ -15,6 +17,7 @@ Step 1: Create an S3 Bucket
 6. Click Create bucket
 
 ![Bucket Created](Images/1a.png)
+_________________________________________________________________________________________________________________________________
 
 Step 2: Create Folder Structure
 Inside the bucket, created the following folders:
@@ -24,6 +27,7 @@ Inside the bucket, created the following folders:
 This ensures organized storage.
 
 ![Bucket Created](Images/2a.png)
+_________________________________________________________________________________________________________________________________
 
 Step 3: Upload Example Files
 Uploaded the following files:
@@ -37,6 +41,7 @@ Files were organized into appropriate folders.
 ![Bucket Created](Images/3b.png)
 
 ![Bucket Created](Images/3c.png)
+_________________________________________________________________________________________________________________________________
 
 Step 4: Configure Access Permissions
 Block Public Access
@@ -47,18 +52,21 @@ Object Ownership
  Access controlled using bucket policies &amp; IAM.
 
 ![Bucket Created](Images/4a.png)
+_________________________________________________________________________________________________________________________________
 
 Step 5: Enable Default Encryption
  Enabled Server-Side Encryption (SSE-S3)
  Ensures data is encrypted at rest.
 
 ![Bucket Created](Images/5a.png)
+_________________________________________________________________________________________________________________________________
 
 Step 6: Enable Bucket Versioning
  Enabled versioning to maintain multiple versions of objects.
  Prevents accidental data loss.
 
 ![Bucket Created](Images/6a.png)
+_________________________________________________________________________________________________________________________________
 
 Step 7: Verify Private Access
 1. Copied Object URL of an uploaded file.
@@ -70,6 +78,7 @@ Step 7: Verify Private Access
 ![Bucket Created](Images/7b.png)
 
 ![Bucket Created](Images/7c.png)
+_________________________________________________________________________________________________________________________________
 
 This confirms secure configuration.
 
